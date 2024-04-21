@@ -50,8 +50,8 @@ The above screenshot shows the interface of dashboard and how to create a group 
 - Ensuring data security and privacy while maintaining seamless collaboration required careful planning and implementation of robust authentication and authorization mechanisms.
 
 ## Technologies Used
-Frontend: React.js, Redux, HTML5, CSS3
-Backend: Node.js, Express.js, MongoDB
+Frontend: React.js, HTML5, CSS3
+Backend: Node.js, MongoDB
 Real-time Communication: WebSocket
 Authentication: JSON Web Tokens (JWT)
 Deployment: Heroku
