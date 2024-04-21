@@ -68,7 +68,7 @@ Deployment: Heroku
 8. Access the app at `http://localhost:3000`
 
 
-## Video Presenation
+## Video Presentation
 https://drive.google.com/file/d/1YpYpQ38cLBj4MtRc7B5inwlOfWMJFgVT/view?usp=sharing
 
 
