@@ -20,8 +20,22 @@ The app maintains a version history of projects, allowing users to track changes
 
 **User Profiles and Permissions**
 Each user has a profile with customizable permissions, allowing administrators to control access to specific features and content. This ensures data security and privacy within the app.
+## Screenshots
+![Screenshot-5](https://github.com/snehasameeera/mindmergeapp/assets/167703164/14a92357-7f8b-47ae-8740-391ece6935ec)
 
+The above sreen shows the login page of the app and how to login with the credentials
+![Screenshot-4](https://github.com/snehasameeera/mindmergeapp/assets/167703164/084122f1-a1ee-4d7a-9042-2bb1d8958576)
 
+The above screenshot shows that navigating to dashboard and create a group after logging in
+![Screenshot-3](https://github.com/snehasameeera/mindmergeapp/assets/167703164/4366a699-185d-4b3c-83e9-3f8b498110fb)
+
+From the screenshot we can see that in the dashboard how many study groups are created and an option to add new group
+![Screenshot-2](https://github.com/snehasameeera/mindmergeapp/assets/167703164/7a323702-e763-41a3-9ddf-e5f4830dde4e)
+
+The above output shows that by clicking on add group we can create another group(Group studies on ML) 
+![Screenshot-1](https://github.com/snehasameeera/mindmergeapp/assets/167703164/7497c7bd-d283-4457-83e9-8c710e4f1e55)
+
+The above screenshot shows the interface of dashboard and how to create a group and an option to add group
 
 ## Development Process
 
